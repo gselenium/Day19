@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19152" started-at="2016-01-06T19:18:16Z" finished-at="2016-01-06T19:18:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19152" started-at="2016-01-06T19:18:16Z" finished-at="2016-01-06T19:18:36Z">
+      <class name="Pack1.Exception_TryCatchBlack">
+        <test-method status="PASS" signature="test()[pri:0, instance:Pack1.Exception_TryCatchBlack@1bc6a36e]" name="test" duration-ms="19078" started-at="2016-01-07T00:48:17Z" finished-at="2016-01-07T00:48:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- Pack1.Exception_TryCatchBlack -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
